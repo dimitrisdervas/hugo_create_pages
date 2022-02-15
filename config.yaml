@@ -1,4 +1,4 @@
 module:
-      mounts:
-        - source: remote
-          target: remote
+  mounts:
+    - source: remote
+      target: remote
